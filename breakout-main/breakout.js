@@ -196,7 +196,7 @@ function create() {
   playerWonText = this.add.text(
     this.physics.world.bounds.width / 2,
     this.physics.world.bounds.height / 2,
-    'You won!',
+    'You won! YAY!',
     {
       fontFamily: 'Monaco, Courier, monospace',
       fontSize: '50px',
